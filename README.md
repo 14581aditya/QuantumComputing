@@ -14,14 +14,18 @@ Researched and learned about:
 8. Current Issue with quantum computers.
 
 How to read through?
+
+
 Download the ProjectQuantum.pptx file.
 Install Microsoft Powerpoint.
 Open the file and read through our research.
 
 Tools Used:
+
 Microsft Powerpoint.
 
 Project Contributors:
+
 Aditya Mishra
 Jamal Brown
 Dominic Mash
