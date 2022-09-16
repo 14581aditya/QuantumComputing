@@ -15,18 +15,17 @@ Researched and learned about:
 
 How to read through?
 
+1. Download the ProjectQuantum.pptx file.
 
-Download the ProjectQuantum.pptx file.
-Install Microsoft Powerpoint.
-Open the file and read through our research.
+2. Install Microsoft Powerpoint.
+
+3. Open the file and read through our research.
 
 Tools Used:
-
 Microsft Powerpoint.
 
 Project Contributors:
-
-Aditya Mishra
-Jamal Brown
-Dominic Mash
+1. Aditya Mishra
+2. Jamal Brown
+3. Dominic Mash
 
